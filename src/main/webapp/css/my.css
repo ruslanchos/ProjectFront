@@ -28,7 +28,7 @@
 }
 #pagination span.current {
     background-color: deeppink;
-    color: greenyellow;
+    color: yellow;
     cursor:pointer;
 }
 form {
