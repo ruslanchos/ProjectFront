@@ -1,4 +1,4 @@
-#data_table tr: nth-child(even) {
+#data_table tr:nth-child(even) {
     background-color: #e276e2;
 }
 #data_table th {
@@ -29,7 +29,7 @@
 #pagination span.current {
     background-color: deeppink;
     color: yellow;
-    cursor:green;
+    cursor:pointer;
 }
 form {
     max-width: 540px;
